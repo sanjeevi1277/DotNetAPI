@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DotNetApi/bin/Debug/net6.0
+/.vs/DotNetApi
+/DotNetApi.Model/bin/Debug/net6.0
+/DotNetApi.Model/obj
+/Model/obj/Debug
+/Model/Model.dbmdl
+/Model/Model.sqlproj
+/Model/Model.sqlproj.user
+/DotNetApi/obj/DotNetApi.csproj.nuget.dgspec.json
+/DotNetApi/obj
